@@ -1,0 +1,661 @@
+2026-03-03 18:28:49.421 - [INFO] - --- STARTING TRADITIONAL MANUAL OOP SIMULATION ---
+2026-03-03 18:28:49.424 - [WARNING] - Dashboard: Sensor_6 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.424 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-5990.
+2026-03-03 18:28:49.424 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.424 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.425 - [WARNING] - Dashboard: Sensor_3 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.425 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-1267.
+2026-03-03 18:28:49.434 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.435 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.435 - [WARNING] - Dashboard: Sensor_10 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.435 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-8421.
+2026-03-03 18:28:49.435 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.435 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.438 - [WARNING] - Dashboard: Sensor_20 showing anomaly -> HARDWARE_FAILURE
+2026-03-03 18:28:49.438 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-9510.
+2026-03-03 18:28:49.438 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.438 - [ERROR] - L2_Support: Replaced broken hardware. Total time: 4800.05s.
+2026-03-03 18:28:49.440 - [WARNING] - Dashboard: Sensor_5 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.440 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-1855.
+2026-03-03 18:28:49.440 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.440 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.442 - [WARNING] - Dashboard: Sensor_13 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.442 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-7403.
+2026-03-03 18:28:49.442 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.442 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.444 - [WARNING] - Dashboard: Sensor_37 showing anomaly -> HARDWARE_FAILURE
+2026-03-03 18:28:49.444 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-1815.
+2026-03-03 18:28:49.444 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.444 - [ERROR] - L2_Support: Replaced broken hardware. Total time: 4800.05s.
+2026-03-03 18:28:49.447 - [WARNING] - Dashboard: Sensor_18 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.447 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-1420.
+2026-03-03 18:28:49.448 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.448 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.460 - [WARNING] - Dashboard: Sensor_32 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.460 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-2151.
+2026-03-03 18:28:49.460 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.460 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.462 - [WARNING] - Dashboard: Sensor_22 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.462 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-8472.
+2026-03-03 18:28:49.462 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.462 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.466 - [WARNING] - Dashboard: Sensor_1 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.466 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-9930.
+2026-03-03 18:28:49.466 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.466 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.467 - [WARNING] - Dashboard: Sensor_44 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.467 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-1106.
+2026-03-03 18:28:49.467 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.467 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.474 - [WARNING] - Dashboard: Sensor_24 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.474 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-8960.
+2026-03-03 18:28:49.474 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.475 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.480 - [WARNING] - Dashboard: Sensor_7 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.480 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-8539.
+2026-03-03 18:28:49.480 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.480 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.482 - [WARNING] - Dashboard: Sensor_24 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.482 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-1710.
+2026-03-03 18:28:49.482 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.482 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.483 - [WARNING] - Dashboard: Sensor_3 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.483 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-9733.
+2026-03-03 18:28:49.483 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.483 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.486 - [WARNING] - Dashboard: Sensor_42 showing anomaly -> HARDWARE_FAILURE
+2026-03-03 18:28:49.486 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-1727.
+2026-03-03 18:28:49.486 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.486 - [ERROR] - L2_Support: Replaced broken hardware. Total time: 4800.05s.
+2026-03-03 18:28:49.490 - [WARNING] - Dashboard: Sensor_13 showing anomaly -> HARDWARE_FAILURE
+2026-03-03 18:28:49.490 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-1412.
+2026-03-03 18:28:49.490 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.490 - [ERROR] - L2_Support: Replaced broken hardware. Total time: 4800.05s.
+2026-03-03 18:28:49.491 - [WARNING] - Dashboard: Sensor_33 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.491 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-4997.
+2026-03-03 18:28:49.491 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.491 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.492 - [WARNING] - Dashboard: Sensor_45 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.492 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-8041.
+2026-03-03 18:28:49.492 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.492 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.501 - [WARNING] - Dashboard: Sensor_40 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.501 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-7259.
+2026-03-03 18:28:49.501 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.501 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.501 - [WARNING] - Dashboard: Sensor_22 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.501 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-2192.
+2026-03-03 18:28:49.501 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.501 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.502 - [WARNING] - Dashboard: Sensor_40 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.502 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-1791.
+2026-03-03 18:28:49.502 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.502 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.502 - [WARNING] - Dashboard: Sensor_21 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.502 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-8756.
+2026-03-03 18:28:49.502 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.502 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.505 - [WARNING] - Dashboard: Sensor_17 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.505 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-6534.
+2026-03-03 18:28:49.506 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.506 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.506 - [WARNING] - Dashboard: Sensor_14 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.506 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-4805.
+2026-03-03 18:28:49.506 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.506 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.507 - [WARNING] - Dashboard: Sensor_10 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.507 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-9460.
+2026-03-03 18:28:49.507 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.507 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.508 - [WARNING] - Dashboard: Sensor_22 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.508 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-8656.
+2026-03-03 18:28:49.508 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.508 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.514 - [WARNING] - Dashboard: Sensor_48 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.514 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-1827.
+2026-03-03 18:28:49.514 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.514 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.517 - [WARNING] - Dashboard: Sensor_13 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.517 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-4870.
+2026-03-03 18:28:49.517 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.517 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.525 - [WARNING] - Dashboard: Sensor_7 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.525 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-2207.
+2026-03-03 18:28:49.525 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.525 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.534 - [WARNING] - Dashboard: Sensor_10 showing anomaly -> HARDWARE_FAILURE
+2026-03-03 18:28:49.534 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-5764.
+2026-03-03 18:28:49.534 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.534 - [ERROR] - L2_Support: Replaced broken hardware. Total time: 4800.05s.
+2026-03-03 18:28:49.537 - [WARNING] - Dashboard: Sensor_40 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.537 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-7976.
+2026-03-03 18:28:49.537 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.537 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.537 - [WARNING] - Dashboard: Sensor_34 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.537 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-7726.
+2026-03-03 18:28:49.537 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.537 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.538 - [WARNING] - Dashboard: Sensor_28 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.538 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-3314.
+2026-03-03 18:28:49.538 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.538 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.539 - [WARNING] - Dashboard: Sensor_4 showing anomaly -> HARDWARE_FAILURE
+2026-03-03 18:28:49.539 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-7719.
+2026-03-03 18:28:49.539 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.539 - [ERROR] - L2_Support: Replaced broken hardware. Total time: 4800.05s.
+2026-03-03 18:28:49.539 - [WARNING] - Dashboard: Sensor_6 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.540 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-1263.
+2026-03-03 18:28:49.540 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.540 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.541 - [WARNING] - Dashboard: Sensor_29 showing anomaly -> HARDWARE_FAILURE
+2026-03-03 18:28:49.541 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-3566.
+2026-03-03 18:28:49.541 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.541 - [ERROR] - L2_Support: Replaced broken hardware. Total time: 4800.05s.
+2026-03-03 18:28:49.547 - [WARNING] - Dashboard: Sensor_23 showing anomaly -> HARDWARE_FAILURE
+2026-03-03 18:28:49.547 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-4355.
+2026-03-03 18:28:49.547 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.547 - [ERROR] - L2_Support: Replaced broken hardware. Total time: 4800.05s.
+2026-03-03 18:28:49.552 - [WARNING] - Dashboard: Sensor_40 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.552 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-7334.
+2026-03-03 18:28:49.552 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.552 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.556 - [WARNING] - Dashboard: Sensor_36 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.556 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-4905.
+2026-03-03 18:28:49.556 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.556 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.556 - [WARNING] - Dashboard: Sensor_45 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.556 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-7135.
+2026-03-03 18:28:49.556 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.556 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.561 - [WARNING] - Dashboard: Sensor_14 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.562 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-6277.
+2026-03-03 18:28:49.562 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.562 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.565 - [WARNING] - Dashboard: Sensor_37 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.565 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-9641.
+2026-03-03 18:28:49.565 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.565 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.569 - [WARNING] - Dashboard: Sensor_41 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.569 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-5637.
+2026-03-03 18:28:49.569 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.569 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.569 - [WARNING] - Dashboard: Sensor_39 showing anomaly -> HARDWARE_FAILURE
+2026-03-03 18:28:49.569 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-5801.
+2026-03-03 18:28:49.569 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.569 - [ERROR] - L2_Support: Replaced broken hardware. Total time: 4800.05s.
+2026-03-03 18:28:49.574 - [WARNING] - Dashboard: Sensor_47 showing anomaly -> HARDWARE_FAILURE
+2026-03-03 18:28:49.574 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-9088.
+2026-03-03 18:28:49.574 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.574 - [ERROR] - L2_Support: Replaced broken hardware. Total time: 4800.05s.
+2026-03-03 18:28:49.589 - [WARNING] - Dashboard: Sensor_41 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.589 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-8194.
+2026-03-03 18:28:49.589 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.589 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.590 - [WARNING] - Dashboard: Sensor_20 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.590 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-7678.
+2026-03-03 18:28:49.590 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.590 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.593 - [WARNING] - Dashboard: Sensor_21 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.593 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-2360.
+2026-03-03 18:28:49.593 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.593 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.595 - [WARNING] - Dashboard: Sensor_45 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.595 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-8699.
+2026-03-03 18:28:49.595 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.595 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.595 - [WARNING] - Dashboard: Sensor_28 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.595 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-3913.
+2026-03-03 18:28:49.595 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.595 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.601 - [WARNING] - Dashboard: Sensor_28 showing anomaly -> HARDWARE_FAILURE
+2026-03-03 18:28:49.601 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-8521.
+2026-03-03 18:28:49.601 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.602 - [ERROR] - L2_Support: Replaced broken hardware. Total time: 4800.05s.
+2026-03-03 18:28:49.603 - [WARNING] - Dashboard: Sensor_45 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.603 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-5736.
+2026-03-03 18:28:49.603 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.603 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.604 - [WARNING] - Dashboard: Sensor_24 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.604 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-8938.
+2026-03-03 18:28:49.604 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.604 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.607 - [WARNING] - Dashboard: Sensor_46 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.607 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-1310.
+2026-03-03 18:28:49.607 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.607 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.610 - [WARNING] - Dashboard: Sensor_12 showing anomaly -> HARDWARE_FAILURE
+2026-03-03 18:28:49.610 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-8210.
+2026-03-03 18:28:49.610 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.610 - [ERROR] - L2_Support: Replaced broken hardware. Total time: 4800.05s.
+2026-03-03 18:28:49.612 - [WARNING] - Dashboard: Sensor_19 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.612 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-3912.
+2026-03-03 18:28:49.612 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.612 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.613 - [WARNING] - Dashboard: Sensor_19 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.613 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-2513.
+2026-03-03 18:28:49.613 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.613 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.613 - [WARNING] - Dashboard: Sensor_30 showing anomaly -> HARDWARE_FAILURE
+2026-03-03 18:28:49.613 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-8425.
+2026-03-03 18:28:49.613 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.613 - [ERROR] - L2_Support: Replaced broken hardware. Total time: 4800.05s.
+2026-03-03 18:28:49.615 - [WARNING] - Dashboard: Sensor_40 showing anomaly -> HARDWARE_FAILURE
+2026-03-03 18:28:49.615 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-6372.
+2026-03-03 18:28:49.615 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.615 - [ERROR] - L2_Support: Replaced broken hardware. Total time: 4800.05s.
+2026-03-03 18:28:49.616 - [WARNING] - Dashboard: Sensor_27 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.616 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-1426.
+2026-03-03 18:28:49.616 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.616 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.616 - [WARNING] - Dashboard: Sensor_4 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.616 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-1203.
+2026-03-03 18:28:49.616 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.617 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.617 - [WARNING] - Dashboard: Sensor_39 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.617 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-7838.
+2026-03-03 18:28:49.617 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.617 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.618 - [WARNING] - Dashboard: Sensor_30 showing anomaly -> HARDWARE_FAILURE
+2026-03-03 18:28:49.618 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-7827.
+2026-03-03 18:28:49.618 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.618 - [ERROR] - L2_Support: Replaced broken hardware. Total time: 4800.05s.
+2026-03-03 18:28:49.619 - [WARNING] - Dashboard: Sensor_45 showing anomaly -> HARDWARE_FAILURE
+2026-03-03 18:28:49.619 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-5237.
+2026-03-03 18:28:49.619 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.619 - [ERROR] - L2_Support: Replaced broken hardware. Total time: 4800.05s.
+2026-03-03 18:28:49.622 - [WARNING] - Dashboard: Sensor_18 showing anomaly -> HARDWARE_FAILURE
+2026-03-03 18:28:49.622 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-4375.
+2026-03-03 18:28:49.622 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.622 - [ERROR] - L2_Support: Replaced broken hardware. Total time: 4800.05s.
+2026-03-03 18:28:49.633 - [WARNING] - Dashboard: Sensor_11 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.633 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-1896.
+2026-03-03 18:28:49.633 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.633 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.635 - [WARNING] - Dashboard: Sensor_2 showing anomaly -> HARDWARE_FAILURE
+2026-03-03 18:28:49.635 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-5522.
+2026-03-03 18:28:49.635 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.635 - [ERROR] - L2_Support: Replaced broken hardware. Total time: 4800.05s.
+2026-03-03 18:28:49.644 - [WARNING] - Dashboard: Sensor_36 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.644 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-4707.
+2026-03-03 18:28:49.644 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.644 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.648 - [WARNING] - Dashboard: Sensor_12 showing anomaly -> HARDWARE_FAILURE
+2026-03-03 18:28:49.648 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-5370.
+2026-03-03 18:28:49.648 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.648 - [ERROR] - L2_Support: Replaced broken hardware. Total time: 4800.05s.
+2026-03-03 18:28:49.651 - [WARNING] - Dashboard: Sensor_5 showing anomaly -> HARDWARE_FAILURE
+2026-03-03 18:28:49.651 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-3995.
+2026-03-03 18:28:49.651 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.651 - [ERROR] - L2_Support: Replaced broken hardware. Total time: 4800.05s.
+2026-03-03 18:28:49.654 - [WARNING] - Dashboard: Sensor_4 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.654 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-5470.
+2026-03-03 18:28:49.654 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.654 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.654 - [WARNING] - Dashboard: Sensor_6 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.654 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-8936.
+2026-03-03 18:28:49.654 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.654 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.654 - [WARNING] - Dashboard: Sensor_19 showing anomaly -> HARDWARE_FAILURE
+2026-03-03 18:28:49.655 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-7760.
+2026-03-03 18:28:49.655 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.655 - [ERROR] - L2_Support: Replaced broken hardware. Total time: 4800.05s.
+2026-03-03 18:28:49.660 - [WARNING] - Dashboard: Sensor_6 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.660 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-8808.
+2026-03-03 18:28:49.660 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.660 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.661 - [WARNING] - Dashboard: Sensor_7 showing anomaly -> HARDWARE_FAILURE
+2026-03-03 18:28:49.661 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-3030.
+2026-03-03 18:28:49.661 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.661 - [ERROR] - L2_Support: Replaced broken hardware. Total time: 4800.05s.
+2026-03-03 18:28:49.664 - [WARNING] - Dashboard: Sensor_24 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.664 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-3810.
+2026-03-03 18:28:49.664 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.664 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.664 - [WARNING] - Dashboard: Sensor_29 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.664 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-4048.
+2026-03-03 18:28:49.664 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.664 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.666 - [WARNING] - Dashboard: Sensor_22 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.666 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-3269.
+2026-03-03 18:28:49.666 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.666 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.674 - [WARNING] - Dashboard: Sensor_42 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.674 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-1530.
+2026-03-03 18:28:49.674 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.674 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.676 - [WARNING] - Dashboard: Sensor_42 showing anomaly -> HARDWARE_FAILURE
+2026-03-03 18:28:49.676 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-7963.
+2026-03-03 18:28:49.676 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.676 - [ERROR] - L2_Support: Replaced broken hardware. Total time: 4800.05s.
+2026-03-03 18:28:49.677 - [WARNING] - Dashboard: Sensor_6 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.677 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-6664.
+2026-03-03 18:28:49.677 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.677 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.678 - [WARNING] - Dashboard: Sensor_45 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.679 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-3717.
+2026-03-03 18:28:49.679 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.679 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.679 - [WARNING] - Dashboard: Sensor_31 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.679 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-5771.
+2026-03-03 18:28:49.679 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.679 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.680 - [WARNING] - Dashboard: Sensor_29 showing anomaly -> HARDWARE_FAILURE
+2026-03-03 18:28:49.680 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-8598.
+2026-03-03 18:28:49.680 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.680 - [ERROR] - L2_Support: Replaced broken hardware. Total time: 4800.05s.
+2026-03-03 18:28:49.680 - [WARNING] - Dashboard: Sensor_2 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.680 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-3437.
+2026-03-03 18:28:49.680 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.680 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.683 - [WARNING] - Dashboard: Sensor_3 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.683 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-4021.
+2026-03-03 18:28:49.683 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.683 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.684 - [WARNING] - Dashboard: Sensor_38 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.684 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-6738.
+2026-03-03 18:28:49.684 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.684 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.686 - [WARNING] - Dashboard: Sensor_26 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.686 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-7459.
+2026-03-03 18:28:49.686 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.686 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.687 - [WARNING] - Dashboard: Sensor_16 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.687 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-3218.
+2026-03-03 18:28:49.687 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.687 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.691 - [WARNING] - Dashboard: Sensor_42 showing anomaly -> HARDWARE_FAILURE
+2026-03-03 18:28:49.691 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-3806.
+2026-03-03 18:28:49.691 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.691 - [ERROR] - L2_Support: Replaced broken hardware. Total time: 4800.05s.
+2026-03-03 18:28:49.696 - [WARNING] - Dashboard: Sensor_49 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.696 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-1369.
+2026-03-03 18:28:49.696 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.696 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.700 - [WARNING] - Dashboard: Sensor_42 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.700 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-8882.
+2026-03-03 18:28:49.700 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.700 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.701 - [WARNING] - Dashboard: Sensor_17 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.702 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-5700.
+2026-03-03 18:28:49.702 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.702 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.710 - [WARNING] - Dashboard: Sensor_48 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.710 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-1455.
+2026-03-03 18:28:49.710 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.710 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.717 - [WARNING] - Dashboard: Sensor_10 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.717 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-9015.
+2026-03-03 18:28:49.717 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.717 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.720 - [WARNING] - Dashboard: Sensor_21 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.720 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-7125.
+2026-03-03 18:28:49.720 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.720 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.722 - [WARNING] - Dashboard: Sensor_7 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.722 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-2840.
+2026-03-03 18:28:49.722 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.722 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.722 - [WARNING] - Dashboard: Sensor_26 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.722 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-9942.
+2026-03-03 18:28:49.722 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.722 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.723 - [WARNING] - Dashboard: Sensor_1 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.723 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-1261.
+2026-03-03 18:28:49.723 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.723 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.723 - [WARNING] - Dashboard: Sensor_49 showing anomaly -> HARDWARE_FAILURE
+2026-03-03 18:28:49.723 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-7786.
+2026-03-03 18:28:49.723 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.723 - [ERROR] - L2_Support: Replaced broken hardware. Total time: 4800.05s.
+2026-03-03 18:28:49.724 - [WARNING] - Dashboard: Sensor_11 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.724 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-1866.
+2026-03-03 18:28:49.724 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.724 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.726 - [WARNING] - Dashboard: Sensor_23 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.726 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-2642.
+2026-03-03 18:28:49.726 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.726 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.732 - [WARNING] - Dashboard: Sensor_34 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.732 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-5782.
+2026-03-03 18:28:49.732 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.732 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.734 - [WARNING] - Dashboard: Sensor_48 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.734 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-4851.
+2026-03-03 18:28:49.734 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.734 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.747 - [WARNING] - Dashboard: Sensor_25 showing anomaly -> HARDWARE_FAILURE
+2026-03-03 18:28:49.748 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-1001.
+2026-03-03 18:28:49.748 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.748 - [ERROR] - L2_Support: Replaced broken hardware. Total time: 4800.05s.
+2026-03-03 18:28:49.750 - [WARNING] - Dashboard: Sensor_17 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.750 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-7165.
+2026-03-03 18:28:49.751 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.751 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.754 - [WARNING] - Dashboard: Sensor_46 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.754 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-8499.
+2026-03-03 18:28:49.754 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.754 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.759 - [WARNING] - Dashboard: Sensor_17 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.759 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-7357.
+2026-03-03 18:28:49.759 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.759 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.786 - [WARNING] - Dashboard: Sensor_31 showing anomaly -> HARDWARE_FAILURE
+2026-03-03 18:28:49.786 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-7820.
+2026-03-03 18:28:49.786 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.786 - [ERROR] - L2_Support: Replaced broken hardware. Total time: 4800.05s.
+2026-03-03 18:28:49.788 - [WARNING] - Dashboard: Sensor_45 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.788 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-3817.
+2026-03-03 18:28:49.788 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.788 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.794 - [WARNING] - Dashboard: Sensor_24 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.794 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-5538.
+2026-03-03 18:28:49.794 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.794 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.795 - [WARNING] - Dashboard: Sensor_21 showing anomaly -> HARDWARE_FAILURE
+2026-03-03 18:28:49.795 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-4717.
+2026-03-03 18:28:49.795 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.795 - [ERROR] - L2_Support: Replaced broken hardware. Total time: 4800.05s.
+2026-03-03 18:28:49.795 - [WARNING] - Dashboard: Sensor_42 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.795 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-4976.
+2026-03-03 18:28:49.795 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.795 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.797 - [WARNING] - Dashboard: Sensor_35 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.797 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-4731.
+2026-03-03 18:28:49.797 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.797 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.799 - [WARNING] - Dashboard: Sensor_39 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.799 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-9651.
+2026-03-03 18:28:49.799 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.799 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.802 - [WARNING] - Dashboard: Sensor_29 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.802 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-8974.
+2026-03-03 18:28:49.802 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.802 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.805 - [WARNING] - Dashboard: Sensor_16 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.805 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-1299.
+2026-03-03 18:28:49.805 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.805 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.808 - [WARNING] - Dashboard: Sensor_19 showing anomaly -> HARDWARE_FAILURE
+2026-03-03 18:28:49.809 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-1040.
+2026-03-03 18:28:49.809 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.809 - [ERROR] - L2_Support: Replaced broken hardware. Total time: 4800.05s.
+2026-03-03 18:28:49.811 - [WARNING] - Dashboard: Sensor_48 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.812 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-3302.
+2026-03-03 18:28:49.812 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.812 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.817 - [WARNING] - Dashboard: Sensor_38 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.817 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-3666.
+2026-03-03 18:28:49.817 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.817 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.820 - [WARNING] - Dashboard: Sensor_1 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.820 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-2070.
+2026-03-03 18:28:49.821 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.821 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.823 - [WARNING] - Dashboard: Sensor_38 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.824 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-1217.
+2026-03-03 18:28:49.824 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.824 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.833 - [WARNING] - Dashboard: Sensor_41 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.834 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-5281.
+2026-03-03 18:28:49.834 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.834 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.843 - [WARNING] - Dashboard: Sensor_14 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.844 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-4965.
+2026-03-03 18:28:49.844 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.844 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.845 - [WARNING] - Dashboard: Sensor_50 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.846 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-1837.
+2026-03-03 18:28:49.846 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.846 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.848 - [WARNING] - Dashboard: Sensor_26 showing anomaly -> HARDWARE_FAILURE
+2026-03-03 18:28:49.848 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-8436.
+2026-03-03 18:28:49.848 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.848 - [ERROR] - L2_Support: Replaced broken hardware. Total time: 4800.05s.
+2026-03-03 18:28:49.849 - [WARNING] - Dashboard: Sensor_31 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.849 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-6157.
+2026-03-03 18:28:49.849 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.849 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.849 - [WARNING] - Dashboard: Sensor_9 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.849 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-8359.
+2026-03-03 18:28:49.849 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.849 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.849 - [WARNING] - Dashboard: Sensor_40 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.849 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-1772.
+2026-03-03 18:28:49.849 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.849 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.857 - [WARNING] - Dashboard: Sensor_6 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.857 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-1682.
+2026-03-03 18:28:49.857 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.857 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.857 - [WARNING] - Dashboard: Sensor_46 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.857 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-8840.
+2026-03-03 18:28:49.857 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.858 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.861 - [WARNING] - Dashboard: Sensor_8 showing anomaly -> HARDWARE_FAILURE
+2026-03-03 18:28:49.861 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-4701.
+2026-03-03 18:28:49.861 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.861 - [ERROR] - L2_Support: Replaced broken hardware. Total time: 4800.05s.
+2026-03-03 18:28:49.862 - [WARNING] - Dashboard: Sensor_39 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.862 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-5861.
+2026-03-03 18:28:49.862 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.862 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.863 - [WARNING] - Dashboard: Sensor_38 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.863 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-6963.
+2026-03-03 18:28:49.863 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.863 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.864 - [WARNING] - Dashboard: Sensor_50 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.864 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-2197.
+2026-03-03 18:28:49.864 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.864 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.869 - [WARNING] - Dashboard: Sensor_33 showing anomaly -> HARDWARE_FAILURE
+2026-03-03 18:28:49.869 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-7703.
+2026-03-03 18:28:49.869 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.869 - [ERROR] - L2_Support: Replaced broken hardware. Total time: 4800.05s.
+2026-03-03 18:28:49.873 - [WARNING] - Dashboard: Sensor_30 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.873 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-8147.
+2026-03-03 18:28:49.873 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.873 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.873 - [WARNING] - Dashboard: Sensor_33 showing anomaly -> HARDWARE_FAILURE
+2026-03-03 18:28:49.873 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-5815.
+2026-03-03 18:28:49.873 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.873 - [ERROR] - L2_Support: Replaced broken hardware. Total time: 4800.05s.
+2026-03-03 18:28:49.875 - [WARNING] - Dashboard: Sensor_40 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.876 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-6594.
+2026-03-03 18:28:49.876 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.876 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.877 - [WARNING] - Dashboard: Sensor_29 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.877 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-4348.
+2026-03-03 18:28:49.877 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.877 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.877 - [WARNING] - Dashboard: Sensor_21 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.877 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-8332.
+2026-03-03 18:28:49.877 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.877 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.878 - [WARNING] - Dashboard: Sensor_4 showing anomaly -> HARDWARE_FAILURE
+2026-03-03 18:28:49.878 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-1642.
+2026-03-03 18:28:49.878 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.878 - [ERROR] - L2_Support: Replaced broken hardware. Total time: 4800.05s.
+2026-03-03 18:28:49.880 - [WARNING] - Dashboard: Sensor_3 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.880 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-5028.
+2026-03-03 18:28:49.880 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.880 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.886 - [WARNING] - Dashboard: Sensor_37 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.886 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-8725.
+2026-03-03 18:28:49.886 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.886 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.890 - [WARNING] - Dashboard: Sensor_37 showing anomaly -> HARDWARE_FAILURE
+2026-03-03 18:28:49.890 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-5070.
+2026-03-03 18:28:49.890 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.891 - [ERROR] - L2_Support: Replaced broken hardware. Total time: 4800.05s.
+2026-03-03 18:28:49.894 - [WARNING] - Dashboard: Sensor_8 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.894 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-3905.
+2026-03-03 18:28:49.894 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.894 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.903 - [WARNING] - Dashboard: Sensor_27 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.903 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-7645.
+2026-03-03 18:28:49.903 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.903 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.905 - [WARNING] - Dashboard: Sensor_1 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.905 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-2657.
+2026-03-03 18:28:49.905 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.905 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.914 - [WARNING] - Dashboard: Sensor_3 showing anomaly -> HARDWARE_FAILURE
+2026-03-03 18:28:49.914 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-8024.
+2026-03-03 18:28:49.914 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.914 - [ERROR] - L2_Support: Replaced broken hardware. Total time: 4800.05s.
+2026-03-03 18:28:49.915 - [WARNING] - Dashboard: Sensor_35 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.915 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-3722.
+2026-03-03 18:28:49.916 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.916 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.917 - [WARNING] - Dashboard: Sensor_20 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.917 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-2219.
+2026-03-03 18:28:49.917 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.917 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.922 - [WARNING] - Dashboard: Sensor_8 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.922 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-5555.
+2026-03-03 18:28:49.922 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.922 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.924 - [WARNING] - Dashboard: Sensor_45 showing anomaly -> HARDWARE_FAILURE
+2026-03-03 18:28:49.924 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-9653.
+2026-03-03 18:28:49.924 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.924 - [ERROR] - L2_Support: Replaced broken hardware. Total time: 4800.05s.
+2026-03-03 18:28:49.924 - [WARNING] - Dashboard: Sensor_48 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.924 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-6392.
+2026-03-03 18:28:49.924 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.924 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.926 - [WARNING] - Dashboard: Sensor_9 showing anomaly -> HARDWARE_FAILURE
+2026-03-03 18:28:49.926 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-4606.
+2026-03-03 18:28:49.926 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.926 - [ERROR] - L2_Support: Replaced broken hardware. Total time: 4800.05s.
+2026-03-03 18:28:49.928 - [WARNING] - Dashboard: Sensor_17 showing anomaly -> HARDWARE_FAILURE
+2026-03-03 18:28:49.928 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-4180.
+2026-03-03 18:28:49.928 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.928 - [ERROR] - L2_Support: Replaced broken hardware. Total time: 4800.05s.
+2026-03-03 18:28:49.928 - [WARNING] - Dashboard: Sensor_5 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.928 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-6441.
+2026-03-03 18:28:49.928 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.928 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.936 - [WARNING] - Dashboard: Sensor_29 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.936 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-2297.
+2026-03-03 18:28:49.936 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.936 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.937 - [WARNING] - Dashboard: Sensor_18 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.937 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-3937.
+2026-03-03 18:28:49.937 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.937 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.938 - [WARNING] - Dashboard: Sensor_44 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.938 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-1179.
+2026-03-03 18:28:49.938 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.938 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.940 - [WARNING] - Dashboard: Sensor_24 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.940 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-2411.
+2026-03-03 18:28:49.940 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.940 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.942 - [WARNING] - Dashboard: Sensor_16 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.942 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-3194.
+2026-03-03 18:28:49.942 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.942 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
+2026-03-03 18:28:49.949 - [WARNING] - Dashboard: Sensor_42 showing anomaly -> SOFTWARE_FREEZE
+2026-03-03 18:28:49.949 - [INFO] - Dispatcher: Noticed error. Created Ticket #INC-7670.
+2026-03-03 18:28:49.949 - [INFO] - Dispatcher: Assigned ticket to L2 Support. Delay: 900s.
+2026-03-03 18:28:49.949 - [INFO] - L2_Support: Manually restarted software. Total time: 2700.05s.
